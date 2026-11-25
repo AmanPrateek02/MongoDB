@@ -1,6 +1,6 @@
 @echo off
 echo ========================================================
-echo   Starting Expense Analytics Application (Aryan Kumar)
+echo   Starting Expense Analytics Application (Aman Prateek)
 echo ========================================================
 echo.
 

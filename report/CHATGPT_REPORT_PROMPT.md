@@ -13,7 +13,7 @@ Here are all the verified project details, database specifications, empirical da
 1. PROJECT & ACADEMIC METADATA
 ================================================================================
 - Project Title: Expense Analytics — Intelligent MongoDB-Based Personal Expense Tracking and Analytics System
-- Student Name: Aryan Kumar
+- Student Name: Aman Prateek
 - Roll Number: 19
 - Registration Number: 12310657
 - Project Type: Individual Project (No Group)
@@ -130,7 +130,7 @@ Top 5 Merchants Leaderboard:
 ================================================================================
 Generate the full report with the following detailed sections:
 1. TITLE PAGE (Lovely Professional University, School of Computer Science & Engineering, Title, Student Name & Reg No, Mentor Name & Designation, Submission Term)
-2. DECLARATION (Formal declaration signed by Aryan Kumar)
+2. DECLARATION (Formal declaration signed by Aman Prateek)
 3. CERTIFICATE (Formal certificate signed by Assistant Professor Anoop Kumar)
 4. ACKNOWLEDGEMENT (Recognizing mentor, department, open-source community)
 5. ABSTRACT (Comprehensive technical abstract summarizing problem, NoSQL architecture, validation, aggregation, and empirical results)

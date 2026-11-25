@@ -188,7 +188,7 @@ export default function App() {
           </button>
         </div>
 
-        <div className="sidebar-avatar">AK</div>
+        <div className="sidebar-avatar">AP</div>
       </aside>
 
       {/* ── Main ─────────────────────────────────────────────────────────── */}
@@ -220,7 +220,7 @@ export default function App() {
             <button className="topbar-icon-btn" title="Notifications" aria-label="Notifications">
               <Bell size={14} />
             </button>
-            <div className="topbar-user-avatar">AK</div>
+            <div className="topbar-user-avatar">AP</div>
           </div>
         </header>
 
@@ -287,7 +287,7 @@ function DashboardPage({ summary, cats, monthly, payments, trends, merchants, ex
       <div className="page-header">
         <div className="page-header-left">
           <h1>Overview Dashboard</h1>
-          <p>{greeting()}, Aryan</p>
+          <p>{greeting()}, Aman Prateek</p>
         </div>
         <div className="page-header-right">
           <button className="btn btn-outline btn-sm">

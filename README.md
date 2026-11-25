@@ -79,7 +79,7 @@ npm run dev
 - **Project Type:** Continuous Assessment (CA-2) / Course Project Report
 - **Course Code & Title:** CSE494 — Intelligent NoSQL Databases
 - **Student Details:**
-  - Student: Aryan Kumar | Roll No: 19 | Reg. No: 12310657
+  - Student: Aman Prateek | Roll No: 19 | Reg. No: 12310657
   - GitHub Repository: [https://github.com/Aryan114mehta/MongoDB](https://github.com/Aryan114mehta/MongoDB)
 - **Mentor / Supervisor:** Under the Guidance of Assistant Professor, School of Computer Science & Engineering
 - **Institution:** Lovely Professional University, Phagwara, Punjab — 144411
@@ -90,7 +90,7 @@ npm run dev
 > This work is original and has not been submitted to any other academic institution. All external references, frameworks, algorithms, and libraries (Flask, PyMongo, MongoDB, React, Recharts) are duly cited in the Bibliography. I declare that every claim, query pipeline, schema definition, and benchmark presented in this report accurately reflects the work performed."
 
 ### Certificate of Originality Template
-> "This is to certify that the project report titled **'Expense Analytics — Intelligent MongoDB-Based Personal Expense Tracking and Analytics System'** has been prepared and submitted by Aryan Kumar (Reg. No: 12310657, Roll No: 19) under my direct supervision. The work demonstrates sound application of Intelligent NoSQL database principles, flexible document schema validation, PyMongo driver integration, multi-stage aggregation pipelines, and modern full-stack web development.
+> "This is to certify that the project report titled **'Expense Analytics — Intelligent MongoDB-Based Personal Expense Tracking and Analytics System'** has been prepared and submitted by Aman Prateek (Reg. No: 12310657, Roll No: 19) under my direct supervision. The work demonstrates sound application of Intelligent NoSQL database principles, flexible document schema validation, PyMongo driver integration, multi-stage aggregation pipelines, and modern full-stack web development.
 >
 > I am satisfied that the scope, methodology, and outcomes documented meet the expected academic standards for submission at the School of Computer Science and Engineering, Lovely Professional University, Phagwara."
 

@@ -1,7 +1,7 @@
 # Expense Analytics — Capstone / Course Project Report
 > **Course:** CSE494 — Intelligent NoSQL Databases  
 > **Institution:** Lovely Professional University, Phagwara, Punjab  
-> **Student:** Aryan Kumar | Roll No: 19 | Reg. No: 12310657  
+> **Student:** Aman Prateek | Roll No: 19 | Reg. No: 12310657
 
 *This document contains the complete, chapter-by-chapter written content for the final project report, matching the academic formatting standards of Lovely Professional University (LPU).*
 
@@ -10,7 +10,7 @@
 ## 1. Title Page & Certificate Data
 - **Title:** Expense Analytics — Intelligent MongoDB-Based Personal Expense Tracking and Analytics System
 - **Submitted By:**
-  1. Aryan Kumar | Roll No: 19 | Reg. No: 12310657
+  1. Aman Prateek | Roll No: 19 | Reg. No: 12310657
 - **Course Code:** CSE494 (Intelligent NoSQL Databases)
 - **School:** School of Computer Science & Engineering, Lovely Professional University
 - **Date & Term:** October 2026
